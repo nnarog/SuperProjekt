@@ -1,5 +1,5 @@
 <?php 
 //komentarz
-//jeszcze inny koment
+//jeszcze inny koment + coś jeszcze
 echo 'hello world!';
 ?>
