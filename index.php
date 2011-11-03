@@ -17,5 +17,5 @@ echo 'server line';
 
 //coś glglglglg
 
-echo 'coś na serwerze';
+echo 'coś lokaline';
 ?>
