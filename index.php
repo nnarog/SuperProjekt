@@ -3,4 +3,5 @@
 //jeszcze inny koment + coś jeszcze
 echo 'hello world!';
 
+echo 'server line';
 ?>
