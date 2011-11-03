@@ -15,5 +15,5 @@ echo 'server line';
  * 
  */
 
-//coś
+//coś glglglglg
 ?>
