@@ -7,5 +7,7 @@ echo 'Dodaję coś nowego';
 
 echo 'bla';
 
-echo 'oo - no i co teraz';
+echo 'no i co?';
+
+echo 'jeszcze cos';
 ?>
