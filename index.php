@@ -20,4 +20,11 @@ echo 'server line';
 echo 'coś na serwerze';
 echo 'coś lokalnie';
 echo 'i jeszcze coś';
+
+/*
+ * babejsza tam komentarz do roboty
+ * nie wiem co z nim zrobić
+ * aaa
+ * 
+ */
 ?>
