@@ -14,4 +14,6 @@ echo 'server line';
  * aaa
  * 
  */
+
+//coś
 ?>
