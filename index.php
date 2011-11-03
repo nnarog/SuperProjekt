@@ -8,12 +8,5 @@ echo 'local line';
 
 echo 'server line';
 
-/*
- * jakiś tam komentarz do roboty
- * nie wiem co z nim zrobić
- * aaa
- * 
- */
-
 //coś
 ?>
