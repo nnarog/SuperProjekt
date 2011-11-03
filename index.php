@@ -16,4 +16,6 @@ echo 'server line';
  */
 
 //coś glglglglg
+
+echo 'coś na serwerze';
 ?>
