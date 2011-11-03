@@ -4,4 +4,6 @@
 echo 'hello world!';
 
 echo 'Dodaję coś nowego';
+
+echo 'bla';
 ?>
