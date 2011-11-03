@@ -2,4 +2,6 @@
 //komentarz
 //jeszcze inny koment + coś jeszcze
 echo 'hello world!';
+
+echo 'Dodaję coś nowego';
 ?>
