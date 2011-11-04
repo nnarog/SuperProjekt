@@ -27,4 +27,6 @@ echo 'i jeszcze coś';
  * aaa
  * 
  */
+
+// orany
 ?>
