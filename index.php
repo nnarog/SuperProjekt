@@ -29,4 +29,7 @@ echo 'i jeszcze coś';
  */
 
 // orany
+
+
+// komentarz dodany w branch'u
 ?>
